@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cony-catching bride who after she was privately married in a conventicle or chamber, according to the new fashion of marriage, she sav'd her selfe very handsomely from being coney-caught ... : together with a sermon preached by a pragmaticall cobler at the aforesaid wedding comparing the duties of marriage to the utensils of his trade.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34396</idno>
+            <idno type="STC">Wing C5992</idno>
+            <idno type="STC">ESTC R20827</idno>
+            <idno type="EEBO-CITATION">12259499</idno>
+            <idno type="OCLC">ocm 12259499</idno>
+            <idno type="VID">57790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 177:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cony-catching bride who after she was privately married in a conventicle or chamber, according to the new fashion of marriage, she sav'd her selfe very handsomely from being coney-caught ... : together with a sermon preached by a pragmaticall cobler at the aforesaid wedding comparing the duties of marriage to the utensils of his trade.</title>
+               </titleStmt>
+               <extent>[3], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By T.F.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57790:1"/>
+            <pb facs="tcp:57790:1"/>
+            <p>THE Cony-catching Bride.</p>
+            <p>Who after ſhe was privately married in a Conventicle or Chamber, according to the new Faſhion of <hi>Marriage:</hi> She ſav'd her ſelfe very handſomely from being Coney-caught, couzened her old Father, her Bride-groome Mr. TOBY, and cauſed a generall laughter amongſt all the GUESTS thither invited.</p>
+            <p>This <hi>Wedding,</hi> or rather <hi>Mock-Marriage</hi> was kept privately in <hi>London,</hi> and is now publiſhed to the view of the World for Mirth-ſake.</p>
+            <p>Together with A SERMON, Preached by a pragmaticall <hi>Cobler,</hi> at the aforeſaid <hi>Wedding,</hi> comparing the Duties of <hi>Marriage</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>tenſils</hi> of his Trade.</p>
+            <figure/>
+            <p>Printed at <hi>London</hi> by <hi>T. F.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustrations">
+            <pb facs="tcp:57790:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="fabliau">
+            <pb n="1" facs="tcp:57790:2"/>
+            <head>THE CONY-CATCHING BRIDE:</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ow in the Spring, when every Bird makes choyce of their Mate, and (imitably to their example) young folks deſire to be coupling together, and to place their affections in a faire proportion of Har<g ref="char:EOLhyphen"/>mony, even as fancy doth direct them. A young Maid, that had a round Portion, and a Father that lov'd round Money; fell in love with a brisk Blade, a luſty <hi>Cavaelier;</hi> but kept her deſires ſecret and unknowne to her Father; who (for ſome by reſpects, as Parents uſe to be too often ſticklers in their Childrens affections) perſwaded her, nay charged her on his Bleſſing that ſhe would turne the ſtream of her affection to a match of his providing, and conſent to marry a Young man, a holy Brother, hoping thereby to make his Daughter a Zea<g ref="char:EOLhyphen"/>lot, and become inſpired with his ſpirituall Edification. She was indeed very unwilling to diſpleaſe her Father, who had ſternly reſolved, that if ſhe but made the leaſt ſigne of refu<g ref="char:EOLhyphen"/>ſall to yoak her ſelf in Matrimony with this prick-eard youth, ſhe ſhould have (for him) no other Portion but the meere Cypher of Nature, which from the time of her Birth ſhe
+<pb n="2" facs="tcp:57790:3"/> conſtantly bare about her: wherfore to give him content, ſhe made a faire formall ſhew of obedience and willingnes to con<g ref="char:EOLhyphen"/>forme her ſelfe to his deliberate motion, and ſubmit to the embraces of this religious young man, yeelding her Virgin Flower to be cropt by his rude hand. Wherupon (after ſome ceremonious complements of wooing, according as the Spirit moved him, hee had won her to a ſimpering conſent of love towards him, to pleaſe her Fathers mind; and (in all paſſages thereof) counterfeited her part<g ref="char:punc">▪</g> exceeding well, look't on him with ſmiling eyes, framed her ſelfe to ſeverall fond geſtures, and diſſembled her thoughts indeed ſo cunningly, as made her Father beleeve and this Young <hi>Toby,</hi> that her heart was onely his, ſhewing, with baſhfulneſſe, ſuch outward expreſſions of a ſeeming paſſion, as willing Maids uſe to thoſe whom they they moſt endearedly affect. So that now the Old mans great joyes, and the Young mans conceited happines, was grown ſo high, that without further delay, a day was deſigned to linke this young Couple together in the true Gordian knot of Ma<g ref="char:EOLhyphen"/>trimony; not in the Old way of Ceremonious Marriage, but according to the new Faſhion. So divers friends of both Parties were invited by the Old mans direction, to ſee them effectually conioyned; who being aſſembled together in a private Chamber, the Old Father (to b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulk all circumſtance) took his Daughter by the hand, gave her freely to the young holy Brother, ſaying, <hi>Increaſe and multiply honeſt</hi> TOBY, <hi>I give you here my Daughter and ſix hundred pound, which ſhall be paid you after dinner all in good Angels and other gold, love her as your yoak fellow, as your zeale ſhall inform you, and ſo God give you ioy and felicity many yeares together.</hi> This new faſhi<g ref="char:EOLhyphen"/>ned <hi>Marriage</hi> thus conſummated, a pragmaticall <hi>Cobler</hi> there preſent, uttered a Sermon <hi>Extempore,</hi> concerning the Duties of <hi>Marriage,</hi> comparing them to the ſeverall <hi>utenſils</hi> of his owne occupation, as followeth.</p>
+            <floatingText xml:lang="eng" rend="italic" type="mock_sermon">
+               <body>
+                  <pb n="3" facs="tcp:57790:3"/>
+                  <head>The <hi>Coblers</hi> SERMON <hi>Extemporie.</hi>
+                  </head>
+                  <p>BRetheren, and beloved Friends here aſſembled, not to ſtand nicely upon the choyce of any Text, but according to the occaſion of our preſent meeting, (as being the coniunction of a young Couple in the bands of Ma<g ref="char:EOLhyphen"/>trimony) I will declare briefly unto you the Duties of Marriage, by moſt fa<g ref="char:EOLhyphen"/>miliar examples, and ſuch as the <hi>Utenſils</hi> of mine owne occupation preſents to my intellect for your better edification. Now mark beloved <hi>(quoth he)</hi> Even as I do ſhape out my Soales equall one to another; ſo a Wife is a Soale that muſt be cut out to a mans hand and made fit for him; and after ſhe is once married ſhe muſt take heed that ſhe tread not her ſhoo awry, for if ſhe doe, I can aſſure you ſhe will hardly ever be well underlaid: But what is that muſt unite and ſow together a Couple in Marriage? Surely it is love, that is the threed that makes them hold faſt in affection, and without love, thoſe that are wrung with the ſhoo of Marriage will fall all to pieces. Ther<g ref="char:EOLhyphen"/>fore deare Brother <hi>TOBY</hi> and Siſter <hi>RUTH.</hi> pray let your love be made of the ſtrongeſt threed that it may ſow and conioyne you together upon the laſt of affection, in the new faſhion of Marriage. Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſhort Leſſon being well grounded in you you may now kiſſe one another, and doe the reſt that is to be done at night, after you have din'd and ſup'd well: for now you are man and Wife in the holy New Faſhion.</p>
+               </body>
+            </floatingText>
+            <p>After the Cobler had ended his Sermon, Dinner was ſent in, and a long Grace ſaid; ſo they fell to their cheere: but now the <hi>Coblers</hi> teeth wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kt as faſt as his tongue, and all the Gueſts fed apace; only the Bride being inwardly diſcontent, ſtood like a poore patient <hi>Griſſell,</hi> ſorry for what ſhe had formerly done, and would by no means ſit downe accor<g ref="char:EOLhyphen"/>ding to cuſtome, nor have her Bridegroom wait on her; bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earneſtly deſired her Father that ſince ſhe was married after the new Faſhion, ſhe might proceed contrary to the Old, and ſo make it compleatly a new faſhioned Wedding indeed. This was granted, and ſo our young holy Siſter wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted at the Table on her Bridegroom, wiſhing he might burne his lips with eating his Broth too hot<g ref="char:punc">▪</g> or that ſome honeſt bone would ſtick in his gullet and choak him; for ſhe lov'd him not, but doted on the <hi>Cavalier,</hi> and wiſh'd to be with him though in ſome diſguiſe but that her Father watch'd her ſo narrowly ſhe knew not how to make eſcape: Whe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore (though much againſt her wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſhe attended ſerviceably, till her Bridegroom and all the reſt of the Gueſts aroſe.</p>
+            <pb n="4" facs="tcp:57790:4"/>
+            <p>After Dinner was ended, they paſt the reſt of the time in finging of Pſalmes, and expounding Chapters, while the Bridegroome and Bride looked very demurely each on other, and inſtead of making their legs walk in Dances to ſome Muſick, they ſate talking together to the edi<g ref="char:EOLhyphen"/>fication of the ſimple. The Bride having now received (in a plentifull meaſure) ſundry Documents of wholſome inſtruction from her holy Bride-grome, (being nevertheleſſe halfe tyred with his tedious Expo<g ref="char:EOLhyphen"/>ſitions) roſe up made a low courteſie, and gave him thanks: but remem<g ref="char:EOLhyphen"/>bering her ſelfe of more materiall buſineſſe yet behind, ſhe ſolicited her Father upon his promiſe to her on the Wedding day, that ſhe (accor<g ref="char:EOLhyphen"/>ding to the new faſhion of <hi>Marriage</hi>) ſhould receive her own Portion: whereupon the Old man unlocking his Cloſet, brought out a long Bag full of old Angels and other Gold, which he had gotten out of Vinegar and Muſtard thoſe two eager Elements; (for he was a kind of a keene Chandler) the Gold ſtuck to his fingers like Bird-lime, loath he was to part with it as with his owne ſoule: but at laſt demurring, or rather doting on his Daughters future preferment with his new ſelected Son in Law, he began to ſpread his golden Pieces on the Table, and onely told them out, for they were all weight upon his certaine knowledge; ſo wiping his eyes, and indeed ready to weep at parting with his Gold, he called his Daughter unto him, delivered it, and bad her tell out the full ſomme, which he had been raking together many yeares induſtriouſly, as by turning the Muſtard-mill, ſerving halpeny-worths of Cheeſe, not halfe ſo long as his noſe, utttring off Huckſters ranke Butter and Egges halfe addle, as alſo by ſelling muſty Vinegar and mangy Tobacco: All which Hoord being now paid downe for his Daughters Portion, he de<g ref="char:EOLhyphen"/>ſired her Husband that his Daughter might have her will on her Wed<g ref="char:EOLhyphen"/>ding day, and (after the new Faſhion of <hi>Marriage</hi>) receive it into her owne cuſtody, for the uſe of him and his Heyres. The Bridegroome who was none of Father Wiſdomes Sons, and had his Religion onely in his demure Face, and horne-pipe Noſe, through which he ſpake ſnaffl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngly to this purpoſe, <hi>That his Bride ſhould finger the Money now, as he inten<g ref="char:EOLhyphen"/>ded to doe her at night:</hi> and ſo lent her a white Handkerchiefe to tye up his Father in Laws Gold; ſhe accordingly took the paines to draw it to her, and told againe the golden Story to her ſelfe. The Old man be<g ref="char:EOLhyphen"/>gan now to recapitulate to all the Gueſts preſent<g ref="char:punc">▪</g> how he (with con<g ref="char:EOLhyphen"/>ſent of the Bride-groom his new created Son in Law, and according to the new forme of <hi>Marriage</hi>) had paid in to his Daughter 600. l. pound
+<pb n="5" facs="tcp:57790:4"/> Portion, and ſo his care and promiſe in that point was ended. The Bride in the mean time was buſied in diſpoſing the Gold; ſhe put it up into a leathern bag and (throwing her Husband his Hand-kercher to wipe his noſe on, for he ſhould never ſee that money againe) ſhe carried away the Prize, and laid it up cloſe in her Cheſt: the Old man applauded his Daughters care ſaying, ſhe had made all cock-ſure; the Gueſts gave her likewiſe great commendation, and the Bridegroome Sir <hi>Toby</hi> thought the Gold ſafe enough for him and his faithfull generation. Having thus debated the matter a while, the Old-man knockt with his Braſill ſtaffe, for his Daughter tarryed long, and was doing ſomthing they little ſu<g ref="char:EOLhyphen"/>ſpected, to put a neat Plot upon them all; yet like an obedient piece of Virginity, ſhe came at his call, looking very cheerfully; the company were glad to ſee her ſo merry, thinking the conceit of that nights plea<g ref="char:EOLhyphen"/>ſure to come, made her thus pleaſant: ſo the Old man the Bridegroom, and Gueſts began all to ſmile too though they had ſmall cauſe fort con<g ref="char:EOLhyphen"/>ſidering her purpoſe, which ſhe ſo cunningly diſſembled.</p>
+            <p>The wiſhed night being come, they went all to Supper, but their bel<g ref="char:EOLhyphen"/>lies were ſo full of good cheere, that they could eat but little; but eſpe<g ref="char:EOLhyphen"/>cially the Bride, who was thought to faſt as Virgins uſe, being affraid at firſt to goe to bed to her Husband: but the Cobler eat till he was ready to burſt againe; for if a ſtitch had fallen in his guts, hee knew how to ſow them together againe: the other Gueſts alſo fell hardly toot tooth and naile; but the Old man only eat but little, for the parting with ſixe hundred pound in Gold had taken away his ſtomack. After they had ſate a while and talkt as formerly, they call'd for water to waſh, and a demure Grace being ſaid by the Old man, they all aroſe and ſate like Images of the new Reformation; till at laſt the Old man made a motion that all the Gueſts there preſent and himſelf ſhould accompany both the Bride and Bride groome to their Chamber, and there leave them; to which all agreed, and the young Couple were brought to their Bridall-Chamber accordingly: Now whether they had a ſpirituall Sack-poſſet or no according to the old Faſhion, I know not; but the Bride ear<g ref="char:EOLhyphen"/>neſtly beſought her Father and all the Gueſts preſent, that ſhe might make it in all points a new Faſhion'd Wedding, and therefore for ſome ſpeciall reaſons, deſired that her Sweet-heart and Bridegroome might go to bed firſt; it was granted and he pluckt off his cloathes and ſoone got within the ſheets; ſo her Father and the other Gueſts wiſhing them both good reſt, took leave and departed, not thinking what would af<g ref="char:EOLhyphen"/>terward
+<pb n="6" facs="tcp:57790:5"/> happen. No ſooner was the Company gone out, but the Bride made faſt the dore, as if ſhe would preſently come to bed to her Bride<g ref="char:EOLhyphen"/>groome, and began to undreſſe in a ſlow manner, delaying the time by looking in her glaſſe, whilſt her Bridegroome (grown very eager in his expectation) peeps wiſhfully through the Curtaines being all this while in a ſtanding Ague and call'd to her ſaying <hi>Sweet</hi> RUTH <hi>if thou loveſt me, make haſt and come away to bed; verily I have obeyed thy deſire in all things hitherto.</hi> The Bride g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancing back her eye on him, ſeem'd frib<g ref="char:EOLhyphen"/>bling awhile about untying her Petticote; now thought young <hi>Toby</hi> I beleeve indeed ſhe will come to bed imediately. But Oh, on a ſodaine her Prayer-Booke was miſſing, and ſhe made an excuſe to go downe to fetch it: ſtay Love ſayes <hi>Toby,</hi> Prayer-Books are abominable, I will in<g ref="char:EOLhyphen"/>ſtruct thee how to pray by the Spirit. But ſhe craved leave to fetch up one more peculier which her Mother gave her, and ſo flung out of the Chamber to ſeeke it, locking the dore faſt after her. The happy oppor<g ref="char:EOLhyphen"/>tunity now ſuiting to her deſire, ſhe went ſecretly into another Room, put on a new gowne with all accoutremements neceſſary and (by the help of her Fathers man whom ſhe had acquainted with her Project) went forth reſolvedly to embrace her new Fortunes. All this while young <hi>Toby</hi> lay much amazed that his Bride on her Wedding night too, ſhould be ſo ſlow in her approach to his Bed, being impatient of further delay, roſe up haſtily, but finding the dore lockt faſt againſt him, cryed out the ſecond time, <hi>Sweet-beart where are you, what doe you meane by this? Come away and bring your Prayer-Booke with you: what doth make you ſtay ſo long?</hi> At laſt having no Anſwer, he knockt with a Bed <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ffe, ſo loud, that up ſtarts the aged father, who comming to the Chamber found the dore lockt, and his Son <hi>Toby</hi> raging in his bed for lack of his new Bride; whereat being ſtrong in paſſion, he ſet h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſhoulder to the Wainſcot dore brake it open, reſolving his Son in law, that ſurely his Daughter was ſtollen out of the houſe but whither he knew not, onely he miſſed one of his men withall, and thence grew his greateſt ſuſpition.</p>
+            <p>The Old man and young <hi>Toby</hi> being ſtark mad at this diſaſter, ſeach'd all corners of the houſe but found nothing but a Letter which diſcove<g ref="char:EOLhyphen"/>red at full, how ſhe had appointed to get her Portion, and marry with the <hi>Cavalier.</hi> Thus the Old man loſt his Daughter and 600. l. young <hi>Toby</hi> was made a <hi>Gregory</hi> in loſing his Bride; and this New-Faſhion'd <hi>Marriage</hi> is and will be talkt of round about the City: For never was the like trick ſhewed by the wit of a Woman on her Wedding-Day.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57790:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
